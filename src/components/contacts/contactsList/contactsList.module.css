@@ -1,0 +1,5 @@
+.contacts__box {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
